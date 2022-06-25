@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MoviesNow/static/css/main.e7480439.css",
-    "main.js": "/MoviesNow/static/js/main.b2e11afe.js",
+    "main.js": "/MoviesNow/static/js/main.4c30072a.js",
     "index.html": "/MoviesNow/index.html",
     "main.e7480439.css.map": "/MoviesNow/static/css/main.e7480439.css.map",
-    "main.b2e11afe.js.map": "/MoviesNow/static/js/main.b2e11afe.js.map"
+    "main.4c30072a.js.map": "/MoviesNow/static/js/main.4c30072a.js.map"
   },
   "entrypoints": [
     "static/css/main.e7480439.css",
-    "static/js/main.b2e11afe.js"
+    "static/js/main.4c30072a.js"
   ]
 }
