@@ -1,0 +1,56 @@
+.Header{
+    width: 100%;
+    cursor: pointer;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    background-color:  #161B22;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    color:#f6f6f6;
+    z-index: 100;
+}
+
+.navElements{
+    /* margin-top: 10px; */
+    padding-top: 70px;
+    margin:auto;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    background-color: #161B22;
+    float: left;
+    position: fixed;
+    width: 100%;
+    color: #f6f6f6;
+    text-align: center;
+    padding-bottom: 10px;
+    z-index: 99;
+}
+
+.Home{
+    color: #f6f6f6;
+    text-decoration: none;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    margin:110px;
+    font-size: 20px;
+    padding-right: 55px;
+}
+
+
+/* #a{
+    display: block;
+} */
+
+li{
+    display: inline;
+}
+
+.Colorspan{
+    color: red;
+    z-index: 101;
+}

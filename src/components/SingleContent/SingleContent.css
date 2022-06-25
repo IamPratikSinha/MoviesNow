@@ -1,0 +1,39 @@
+.media{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 10px 0;
+    padding: 5px;
+    position: relative;
+    transition: 0.5s;
+}
+
+
+.media:hover{
+    background-color: white;
+    color: black;
+    transform: scale(1.1);
+    box-shadow: 2px 2px 2px white;
+    z-index: 2;
+}
+
+@media (max-width: 550px){
+    .media{
+        width: 46%;
+    }
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    padding: 8px 0;
+}
+
+.subTitle{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3px;
+    padding: 0 2px;
+    padding-bottom: 3px;
+}
